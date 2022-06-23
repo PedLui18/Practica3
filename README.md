@@ -16,7 +16,8 @@ Pasos:
 15) El archivo que se selecciono sera un "rar" es necesario descomprimirlo haciendo click derecho y seleccionando la opcion de "descomprimir en "ejemplo\"" 
 16) Realizar el paso anterior nos creara una carpeta con el contenido del rar, el cual sera una ejecutable llamado "chromedriver"
 17) Copiamos la ruta en la cual esta nuestro archivo, ejemplo: 'C:\\Users\\Pedro\\Downloads\\chromedriver\\chromedriver.exe' 
-18) Descargamos el archivo que utilizaremos en la pruba desde el repositorio de github: 
+18) Descargamos el archivo que utilizaremos en la prueba desde el siguiente repositorio de github: https://github.com/PedLui18/Practica3. 
+ Descargamos el archivoQA_EpicGames.py
 19) Abrimos el IDE visual code para comenzar a trabajar
 20) abrimos el archivo QA_EpicGames.py
 21) buscar dentro el codigo la variable "driver_path = ", añadimos la ruta la donde se encuentra el ejecutable que descargamos anteriormente
