@@ -17,7 +17,7 @@ Pasos:
 16) Realizar el paso anterior nos creara una carpeta con el contenido del rar, el cual sera una ejecutable llamado "chromedriver"
 17) Copiamos la ruta en la cual esta nuestro archivo, ejemplo: 'C:\\Users\\Pedro\\Downloads\\chromedriver\\chromedriver.exe' 
 18) Abrimos el IDE visual code para comenzar a trabajar
-19) abrimos el archivo automatizarKhanAcademy.py
+19) abrimos el archivo QA_EpicGames.py
 20) buscar dentro el codigo la variable "driver_path = ", añadimos la ruta la donde se encuentra el ejecutable que descargamos anteriormente
 21) antes de realizar la ejecucion del archivo abrimos una nueva terminal haciendo click opcion de terminal en el menu de opciones visual code, en el menu despleagable seleccionames la opcion de nueva terminal
 22) En la terminal de comandos ingresamos los siguientes comandos: pip3 install -U selenium,
